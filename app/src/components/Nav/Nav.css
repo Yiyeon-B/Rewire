@@ -1,0 +1,11 @@
+.navBar {
+    border-bottom: 4px solid lightgray;
+}
+
+.logoText {
+    text-transform: capitalize;
+}
+
+.MuiTypography-h2 {
+    text-transform: capitalize;
+}

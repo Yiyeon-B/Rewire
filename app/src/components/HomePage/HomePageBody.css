@@ -1,0 +1,31 @@
+.big-container {
+  background-color: #D3B8C7;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+  height: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #EFA3A3;
+  border-radius: 1.25em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #C48989;
+  border-radius: 1.5em;
+}
+
+#add-thought-subtitle {
+  margin-left: 67px;
+  margin-right: 67px;
+  padding-top: 11px;
+  height: 60px;
+}
+
+#footer {
+  height: 100px;
+  color: #D3B8C7;
+}
+

@@ -1,0 +1,13 @@
+.box {
+         background-color: rgba(214, 196, 196, 100);
+     }
+.Accordion-header {
+    padding-left: 271px;
+    padding-bottom: 0px;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.AccordDiv {
+    background-color: rgb(255,255,255);
+}
